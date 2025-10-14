@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # figma_json_design_project
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# json-figma-design
+Um projeto em Flutter que permite personalizar completamente o design do aplicativo (cores, espaçamentos, bordas, cantos) a partir de um arquivo JSON exportado do Figma. A ideia é transformar o design system em algo dinâmico, onde toda a estética do app pode ser alterada sem recompilar o código, apenas atualizando o JSON.
+>>>>>>> origin/main
